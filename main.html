@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Ant Hill</title> 
+	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="css/adaptive.css">
+</head>
+<body>
+	<div class="page">
+	<header class="header">
+		<div class="logo">
+			<p style="margin-top: 0; margin-bottom: 25px;">Ant Hill</p>
+		</div>
+		<div class="accountimg">
+			<a href="account.html"><img class="img" src="img/account.svg" width="80" height="80"></a>
+		</div>
+		<a class="addachiv" onclick="document.getElementById('loadachiv').style.display='block';" href="#">Добавить достижение</a>
+		<a class="grade" href="#">Оценка</a>
+	</header>
+	<div id="loadachiv">
+     		<form action="/" method="post">
+     	        <div class="achiv1">
+     	        	<a class="close" href="#" onclick="document.getElementById('loadachiv').style.display='none';">x</a>
+     	    	    <input class="data1" type="text" name="achiv2" placeholder="Ввести данные">
+     	    	    <label class="file1">
+     	    		    <input type="file" name="file" class="foto">
+     	    		        Изображение
+     	    	    </label>          
+     	        </div>
+     	    </form>
+     	</div>
+	<section class="section">
+		<div class="news"></div>
+	</section>
+	<footer id="footer" class="footer">
+	</footer>
+	</div>
+</body>
+</html>

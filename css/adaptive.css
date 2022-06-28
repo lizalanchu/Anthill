@@ -1,0 +1,295 @@
+@media screen and (min-width: 320px) and (max-width: 480px){ 
+
+.page {
+	background-position: 25px 0px;
+	background-size: 10%;
+	height: 600px;
+
+}
+
+.page1 {
+    background-position: 25px 0px;
+    background-size: 10%;
+    height: 535px;
+
+}
+
+.page2 {
+    background-position: 270px 0px;
+    background-size: 10%;
+    height: 460px;
+
+}
+
+
+
+
+.header {
+	background-size: 100%;
+	height: 30px;
+}
+
+.section {
+	top: 100px;
+} 
+
+.logo {
+	font-size: 14px;
+	width: 100px;
+    position: absolute;
+    left: 10px;
+    top: 2px;
+}
+
+.logo1 {
+    font-size: 14px;
+    width: 48px;
+    position: absolute;
+    left: 265px;
+    top: 2px;
+}
+
+
+
+
+.about {
+	width: 170px;
+    height: 300px;
+    left: 33px;
+}
+
+.rectangl {
+	top: -160px;
+	width: 90px;
+	height: 150px;
+	left: 45px;
+}
+
+#entr {
+	width: 90px;
+	height: 150px;
+	left: 7px;
+    top: 5px;
+}
+
+.group {
+	width: 80px;
+	margin: 7px 0 0 5px;
+}
+
+.label {
+    font-size: 12px;
+}
+
+.input {
+    width: 70px;
+    height: 10px;
+}
+
+.ok {
+	font-size: 12px;
+    left: 27px;
+    top: 4px;
+}
+
+.a {
+	font-size: 11px;
+	left: 12px;
+    top: 1px;
+}
+
+.a1 {
+	font-size: 11px;
+	top: -3px;
+    left: 5px;
+}
+
+.addachiv {
+    left: 90px;
+    top: 5px;
+    font-size: 10px;
+    position: absolute;
+}
+
+.grade {
+    left: 200px;
+    top: 5px;
+    font-size: 10px;
+    position: absolute;
+}
+
+.accountimg{
+     width: 20px;
+     height: 20px;
+     left: 296px;
+     top: 1px; 
+}
+
+.img {
+    width: 20px;
+    height: 20px;
+}
+
+.news {
+    width: 250px;
+    height: 400px;
+    left: 25px;
+    top: 15px;
+}
+
+#loadachiv {
+    width: 180px;
+    height: 70px;
+    top: 5px;
+    left: 100px;
+
+}
+
+.achiv1 {
+    width: 180px;
+    height: 70px;
+    left: 5px;
+    top: 4px;
+}
+
+.data1 {
+    left: -6px;
+    margin: 0 5px;
+    top: 16px;
+    width: 70px;
+    height: 33px;
+    border: 1px solid #000000;
+    font-size: 10px;
+}
+
+.file1 {
+    top: 16px;
+    width: 70px;
+    height: 35px;
+    border: 1px solid #000000;
+    font-size: 10px;
+    line-height: 3.8;
+}
+
+.close {
+    left: 170px;
+    top: -11px;
+    font-size: 10px;
+}
+
+
+.rectangl1 {
+    width: 240px;
+    height: 175px;
+    left: 65px;
+    top: 0px;
+}
+
+#registr {
+    width: 240px;
+    height: 175px;
+    left: 10px;
+    top: 8px;
+}
+
+.group1 {
+    width: 225px;
+    margin: 11px 0px 1px 7px;
+    text-align: right;
+}
+
+.label1 {
+    font-size: 12px;
+}
+
+.input1 {
+    width: 100px;
+    height: 10px;
+    background: #FFFFFF;
+}
+
+.rectangl2 {
+    width: 227px;
+    height: 80px;
+    top: 65px;
+}
+
+.achiv {
+    width: 227px;
+    height: 80px;
+    left: 8px;
+    top: 6px;
+}
+
+.data {
+    margin: 0px 26px;
+    top: 14px;
+    width: 74px;
+    height: 44px;
+    border: 1px solid #000000;
+    font-size: 10px;
+}
+
+.file {
+    top: 14px;
+    width: 74px;
+    height: 44px;
+    border: 1px solid #000000;
+    font-size: 10px;
+    line-height: 4.5;
+}
+
+
+.a2 {
+    width: 234px;
+    height: 14px;
+    top: 337px;
+    left: 2px;
+    font-size: 10px;
+    padding-top: 2px;
+}
+
+.square {
+    width: 60px;
+    height: 60px;
+    left: 7px;
+    top: -3px;
+}
+
+.accountimg1 {
+    top: 4px;
+    left: 4px;
+    width: 60px;
+}
+
+.rectangl3 {
+    width: 100px;
+    height: 150px;
+    left: 7px;
+    top: -11px;
+}
+
+.inform {
+    width: 100px;
+    height: 150px;
+    left: 6px;
+    top: 4px;
+}
+
+.p {
+    font-size: 14px;
+    top: 8px;
+}
+
+.p1 {
+    font-size: 11px;
+    margin: 12px 0 0 5px;
+}
+
+.rose {
+    left: 120px;
+    top: 50px;
+    width: 200px;
+}
+
+}
